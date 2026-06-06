@@ -1,4 +1,4 @@
-use axum::{Json, Router, http::StatusCode, routing::get};
+use axum::{Router, routing::get};
 
 #[tokio::main]
 async fn main() {
