@@ -1,4 +1,4 @@
-# Server software designed for managing container solutions inside the CIICCTE
+# Server software designed for automating container workflows inside the CIICCTE
 
 - Rust made
 - Reliant on tokio, hyper and axum
